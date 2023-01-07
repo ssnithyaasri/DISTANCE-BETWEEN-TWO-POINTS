@@ -31,7 +31,8 @@ d=math.sqrt(math.pow(l2[0]-l1[0],2)+math.pow(l2[1]-l1[1],2))
 print("{:.2f}".format(d))
  
  ```
-  ### OUTPUT:![](distance.png)
+  ### OUTPUT:
+  ![](distance.png)
 
 ### RESULT:
 The distance two points created successfully
